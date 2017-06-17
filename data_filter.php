@@ -28,7 +28,7 @@ function filterTable($query)
 <html>
     <head>
         <title> Medinfi Healthcare Pvt Ltd </title>
-		<link rel="shortcut icon" href="/images/title.png" type="image/png">
+		<link rel="shortcut icon" href="title.png" type="image/png">
         <style>
             table,tr,th,td
             {
@@ -36,9 +36,9 @@ function filterTable($query)
             }
         </style>
     </head>
-    <body background="/images/backgrod_filter.png">
+    <body background="backgrod_filter.png">
         <p>
-			<h1 align="center" style="font-size:300%;"> <img src="/images/logo.png" alt="logo" style="width:40px;height:40px;"/>Medinfi Healthcare Pvt Ltd </h1>
+			<h1 align="center" style="font-size:300%;"> <img src="logo.png" alt="logo" style="width:40px;height:40px;"/>Medinfi Healthcare Pvt Ltd </h1>
 		</p>
         <form action="data_filter.php" method="post">
 			<p>
